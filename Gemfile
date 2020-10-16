@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+gem 'github-pages'
 gem "jekyll", "~> 3.8.2"
 gem 'html-proofer', '~> 3.9.1'
 group :jekyll_plugins do
