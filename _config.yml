@@ -1,11 +1,11 @@
 # Site settings
 author: Kimfucious
 baseurl: ""
-brand: Sakura
+brand: Colawithrain
 copyright: abts.io
-description: A clean Jekyll theme with baked in Bootstrap 4, responsive images, and more...
-email: example@example.com 
-title: Sakura Jekyll Theme 
+description: She is smooth, she is so lonely
+email: example@example.com
+title: Bye Bye Disco
 url: "https://sakura.abts.io"
 
 # Not using because Gulp is now processing SCSS
