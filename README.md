@@ -3,7 +3,7 @@ layout: post
 title: Read Me
 ---
 
-# Sakura Jekyll Theme
+# Bye Bye disco
 
 ![Build Status](https://travis-ci.org/kimfucious/sakura.svg?branch=master)
 
