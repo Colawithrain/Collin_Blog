@@ -3,7 +3,7 @@ layout: post
 title: Read Me
 ---
 
-# Bye Bye disco
+# Read me
 
 ![Build Status](https://travis-ci.org/kimfucious/sakura.svg?branch=master)
 
