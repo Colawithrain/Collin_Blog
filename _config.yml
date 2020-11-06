@@ -4,9 +4,9 @@ baseurl: ""                   # 点击brand时候要返回的地址，这个地�
 brand: Colin's Blog           # 主页面左上角的主页字体
 copyright: Colawithrain       # 主页面底下的copyright
 description: Colin's Blog     # 这个地方不是修改主页的title和description的，请到主目录的index.html中修改
-email: example@example.com
+email: colawithrain@gmail.com
 title: Bye Bye Disco          # 这个是显示在浏览器标签上的名字
-url: ""
+url: "https://github.com/Colawithrain/Collin_Blog"
 
 # Not using because Gulp is now processing SCSS
 # sass:
@@ -76,10 +76,10 @@ plugins: [jekyll-paginate-v2, jemoji, jekyll-sitemap, jekyll-seo-tag]
 
 # SEO
 social:
-  name: Kimfucious
+  name: Colin
   links:
-    - https://github.com/kimfucious
-    - https://www.linkedin.com/in/kimaford/
+    - https://github.com/Colawithrain
+    - https://www.linkedin.com/in/collin-lingzhi-cao/
 webmaster_verifications:
   google: uubLfpcORmDWkM8pI-yKODVVZD3VSpUYFSwkQJcOuZE
 
@@ -87,9 +87,9 @@ webmaster_verifications:
 # Social icons
 show_social_icons: true
 facebook_username: 
-github_username: kimfucious 
+github_username: Colawithrain 
 googleplus_username: 
-linkedin_username: kimaford
+linkedin_username: collin-lingzhi-cao # 这里填写linkedin个人链接最后面的username
 slack_username: 
 twitter_username: 
 
