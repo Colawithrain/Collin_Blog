@@ -1,6 +1,6 @@
 # Site settings
 author: Colin                 # 没找到在哪里显示的
-baseurl: ""                   # 点击brand时候要返回的地址，这个地方留成空的可以保证返回主页
+baseurl: "/_site"                   # 点击brand时候要返回的地址，这个地方留成空的可以保证返回主页
 brand: Colin's Blog           # 主页面左上角的主页字体
 copyright: Colawithrain       # 主页面底下的copyright
 description: Colin's Blog     # 这个地方不是修改主页的title和description的，请到主目录的index.html中修改
