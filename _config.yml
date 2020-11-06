@@ -9,9 +9,9 @@ title: Bye Bye Disco          # 这个是显示在浏览器标签上的名字
 url: ""
 
 # Not using because Gulp is now processing SCSS
-# sass:
-#   sass_dir: css
-#   style: compressed
+sass:
+  sass_dir: css
+  style: compressed
 
 # Algolia Search
 algolia:
