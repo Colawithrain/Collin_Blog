@@ -49,7 +49,6 @@ defaults:
 
 # Exclude from Jekyll processing
 exclude: [
-  "_assets",
   "Gemfile",
   "Gemfile.lock",
   "gulpfile.js",
