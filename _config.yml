@@ -6,7 +6,7 @@ copyright: Colawithrain       # 主页面底下的copyright
 description: Colin's Blog     # 这个地方不是修改主页的title和description的，请到主目录的index.html中修改
 email: colawithrain@gmail.com
 title: Bye Bye Disco          # 这个是显示在浏览器标签上的名字
-url: "https://colawithrain.github.io/Collin_Blog"
+url: ""
 
 # Not using because Gulp is now processing SCSS
 # sass:
