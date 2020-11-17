@@ -7,7 +7,7 @@
           <img class="card-img-top" src="{% include picture_logic.html %}" alt="Card Text">
           <div class="card-body pt-2">
             <h4 class="card-title">
-              <a href="{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h4>
             <p class="card-subtitle text-muted">
               {{ post.date | date: "%b %-d, %Y" }}

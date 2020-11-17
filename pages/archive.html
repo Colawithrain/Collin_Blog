@@ -10,7 +10,7 @@ pagination:
         {% for post in paginator.posts %}
         <li class="list-group-item">
           <span class="text-muted">{{ post.date | date: "%b %d, %Y " }}</span> :
-          <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
       </ul>
