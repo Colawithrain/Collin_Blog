@@ -3,7 +3,7 @@ author: Colin                 # 没找到在哪里显示的
 baseurl: "/Collin_Blog"       # 点击brand时候要返回的地址，这个地方留成空的可以保证返回主页
 brand: Colin's Blog           # 主页面左上角的主页字体
 copyright: whoever            # 主页面底下的copyright
-description: Colin's Blog     # 这个地方不是修改主页的title和description的，请到主目录的index.html中修改
+description: Mostly clear     # 这个地方不是修改主页的title和description的，请到主目录的index.html中修改
 email: colawithrain@gmail.com
 title: Bye Bye Disco          # 这个是显示在浏览器标签上的名字
 url: "https://colawithrain.github.io"
@@ -79,7 +79,6 @@ social:
   name: Colin
   links:
     - https://github.com/Colawithrain
-    - https://www.linkedin.com/in/collin-lingzhi-cao/
 webmaster_verifications:
   google: uubLfpcORmDWkM8pI-yKODVVZD3VSpUYFSwkQJcOuZE
 
