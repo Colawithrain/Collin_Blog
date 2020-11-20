@@ -22,10 +22,10 @@ algolia:
 collections:
   docs:
     output: true
-    permalink: "/:collection/:path/"
+    permalink: "/Collin_Blog/:collection/:path/"
   posts:
     output: true
-    permalink: "/:collection/:title/"
+    permalink: "/Collin_Blog/:collection/:title/"
 
 # Defaults : these allow you to set default values for front matter
 defaults:
