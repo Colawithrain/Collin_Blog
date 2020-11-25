@@ -72,7 +72,7 @@ pagination:
     after: 2
 
 # Plugins
-plugins: [jekyll-paginate-v2, jemoji, jekyll-sitemap, jekyll-seo-tag]
+plugins: [jekyll-paginate, jemoji, jekyll-sitemap, jekyll-seo-tag]
 
 # SEO
 social:
