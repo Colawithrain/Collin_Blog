@@ -16,21 +16,21 @@ url: "https://colawithrain.github.io"
 # Algolia Search
 algolia:
   application_id: 4P42FOBOZA # Use your (non-admin) search only api key here.
-  index_name: sakura #Use an index you created on Algolia.
+  index_name: sakura # Use an index you created on Algolia.
 
 # Collections
 collections:
   docs:
     output: true
-    permalink: "/Collin_Blog/:collection/:path/"
+    permalink: ":collection/:path/"
   posts:
     output: true
-    permalink: "/Collin_Blog/:collection/:title/"
+    permalink: ":collection/:title/"
 
 # Defaults : these allow you to set default values for front matter
 defaults:
   - scope:
-      path: "_posts"
+      path: "_posts" # 不要改这个，这个是保证右上角的链接正常跳转的
       type: posts
     values:
       layout: post 
@@ -64,7 +64,7 @@ exclude: [
 pagination:
   enabled: true
   per_page: 4 
-  paginate_path: "/Collin_Blog/page:num"
+  paginate_path: "page:num"
   sort_reverse: true
   title: ":title"
   trail:
