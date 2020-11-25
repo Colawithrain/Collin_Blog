@@ -30,18 +30,18 @@ collections:
 # Defaults : these allow you to set default values for front matter
 defaults:
   - scope:
-      path: "/Collin_Blog/_posts"
+      path: "_posts"
       type: posts
     values:
       layout: post 
       type: post
   - scope:
-      path: "/Collin_Blog/pages"
+      path: "pages"
       type: pages
     values:
       layout: default 
   - scope:
-      path: "/Collin_Blog/_docs"
+      path: "_docs"
       type: docs
     values:
       layout: post
